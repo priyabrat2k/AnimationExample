@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimationExample</string>
+    <string name="name_activity_first">First Activity</string>
+    <string name="name_activity_second">Second Activity</string>
+</resources>
